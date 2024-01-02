@@ -1,4 +1,3 @@
 this is demo file
 this is edited by remote repo
-this time i am adding addtional content
-i am adding one more content
+i removed last 2 steps & i added this in remote
